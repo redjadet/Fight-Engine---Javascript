@@ -11,3 +11,5 @@ Currently, two characters are doing same moves when action keys are pressed but 
 Open 'newindex.html' file in browser to run the game. 
 
 Hope you like it :)
+
+License: MIT, see LICENSE
